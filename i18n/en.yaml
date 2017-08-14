@@ -1,0 +1,31 @@
+- id: profile.fullname
+  translation: "AiDeHua / WangShaoHua"
+- id: profile.description
+  translation: ""
+
+- id: contact.headline
+  translation: "Follow my public groups"
+- id: contact.description
+  translation: ""
+
+- id: contact.email
+  translation: ""
+- id: contact.chat
+  translation: ""
+- id: contact.steemit
+  translation: ""
+- id: contact.wechat_qr
+  translation: ""
+
+- id: nav.tattoo
+  translation: "Tattoo"
+- id: nav.design
+  translation: "Design"
+- id: nav.henna
+  translation: "Henna"
+- id: nav.piercing
+  translation: "Piercing"
+- id: nav.dreadlocks
+  translation: "Dreadlocks"
+- id: nav.contact
+  translation: "Contact me"
