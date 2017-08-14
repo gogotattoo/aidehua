@@ -1,1 +1,1 @@
-gogo.tattoo/aidehao
+gogo.tattoo/aidehua
