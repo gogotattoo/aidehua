@@ -58,7 +58,7 @@ favicon = "favicon.ico"
   contact = "nav.contact"
 
 [params.navigation]
-  brand = ""
+  brand = "aidehua @ gogo.tattoo"
 
   [params.navigation.links]
     about     = "nav.about"
