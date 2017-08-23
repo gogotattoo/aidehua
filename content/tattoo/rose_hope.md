@@ -14,7 +14,8 @@ images_ipfs = ["QmcvaZP5xw612vPsEWaiUuFXxvVMhtmeceUbitsYHtPbPK",
 "QmPqPVz2jNg3ssoRz58ZcTVzBBXkRXUJ4enfBVJJ9SiF7S",
 "QmckG5cxwxVzQACLikKF9vmwavs99FSX4kged19R5eHELV",
 "QmNyjG3ibFHNiVu9Jg8fBX6jEEoMYDPRyehZJmh5KvPsYo",
-"QmeJaLkmfD9bDwWpbBGgQ8DqrSAjytLE3rM2h7Rc3296fC"]
+"QmeJaLkmfD9bDwWpbBGgQ8DqrSAjytLE3rM2h7Rc3296fC",
+"QmNo9KQvBmcJtkxtTHwjaHdPZR33CbUt435TK89LJJBQgE"]
 videos_ipfs = ["QmfJx6YVrQz8swZ3euXViaDonm7kfBo2AwiZrSSrFmZBWb",
 "QmcwwBQAk1TjCgwX4CK1BnUTPkhjkHVdQk2C2AEz4pfnqW"]
 location_city = "Shaxi"
