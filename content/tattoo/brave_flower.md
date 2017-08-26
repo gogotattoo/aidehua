@@ -13,12 +13,12 @@ image_ipfs = "QmPam73526EpaHwXycbThLkA452HfaAavF4uuo4GmE1BdS"
 images_ipfs = []
 videos_ipfs = []
 location_city = "Shaxi"
-location_country = " Jiangsu"
+location_country = "Jiangsu"
 made_at_shop = "tangka"
 previous = ""
 
 [blockchain]
-  steem = ""
-  golos = ""
+steem = "tattoo/@gogo.tattoo/aidehua-gogo-tattoo-aidehua-tattoo-braveflower"
+golos = "tattoo/@gogo.tattoo/aidehua-gogo-tattoo-aidehua-ru-tattoo-braveflower"
 
 +++

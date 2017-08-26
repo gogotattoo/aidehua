@@ -14,7 +14,7 @@ image_ipfs = "QmcyJJHaiWGd3m3MuXxkR38BZLMk1pS3P9uyyEFH2ZnXjN"
 images_ipfs = []
 videos_ipfs = []
 location_city = "Shaxi"
-location_country = " Jiangsu"
+location_country = "Jiangsu"
 made_at_shop = "tangka"
 previous = ""
 
